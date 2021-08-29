@@ -56,3 +56,5 @@ document
 const deleteFormIncompleteList = (target) => {
   document.getElementById("incomplete-list").removeChild(target);
 };
+
+console.log("test");
